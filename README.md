@@ -1,6 +1,6 @@
 ### Olá, meu nome é Marcus Almeida 👋
 
-- 🔭 Hoje eu estou trabalhando em melhorar minhas hard-skills
+- 🔭 Hoje eu estou trabalhando em melhorar minhas softs e hard-skills
 - 🌱 Estudando Data Science
 
 <div align="center">
