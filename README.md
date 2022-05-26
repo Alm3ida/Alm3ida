@@ -1,7 +1,7 @@
 ### Olá, meu nome é Marcus Almeida 👋
 
-- 🔭 Hoje eu estou trabalhando em melhorar minhas softs e hard-skills
-- 🌱 Estudando Data Science
+- 🔭 Hoje eu estou trabalhando em melhorar minhas softs e hard-skills.
+- 🌱 Estagiário em Data Science
 
 <div align="center">
   <a href="https://github.com/Alm3ida">
@@ -13,7 +13,7 @@
   <img align="center" alt="Marcus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcus-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Marcus-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"> 
-</div>
+</div><br>
   
 <div> 
   <a href="https://www.instagram.com/_marcus.almeida/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
