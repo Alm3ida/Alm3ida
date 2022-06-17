@@ -1,4 +1,4 @@
-# **Olá, meu nome é Marcus Almeida** 
+# **Hello, my name is Marcus Almeida! 🎲** 
 
 
 - 🔭 Nowadays, I'm working to improve my soft-skills and hard-skills.
