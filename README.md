@@ -1,25 +1,55 @@
-### Olá, meu nome é Marcus Almeida 👋
+# **Olá, meu nome é Marcus Almeida** 
 
-- 🔭 Hoje eu estou trabalhando em melhorar minhas softs e hard-skills.
-- 🌱 Estagiário em Data Science
 
-<div align="center">
-  <a href="https://github.com/Alm3ida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alm3ida&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alm3ida&layout=compact&langs_count=7&theme=aura"/>
-</div>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcus-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Marcus-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"> 
-</div><br>
+- 🔭 Nowadays, I'm working to improve my soft-skills and hard-skills.
+- 🌱 I'm currently working at Alura as Data Science Intern.
+- ❔ Ask me about Python, Data Science, Electrical Engineering and Robotics.
+
+<br>
+
+## How to reach me? 📩
+- 📄 **[LinkedIn](https://www.linkedin.com/in/marcus-vinicius-de-souza-almeida/)**
+- ✉️ **[E-mail](mailto:marcus.almeida.ds@gmail.com)**
+
+<br>
+
+## Languages and Tools:
+
+
+<!-- Language icons -->
+<p align="left">
+<!-- Python -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+ <!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg
+" alt="jupyter_lab" width="40" height="40"/> </a>
+<!-- Numpy -->
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="seaborn" width="40" height="40"/> </a>
+<!-- Seaborn -->
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<!-- HTML 5 -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <!-- Scikit Learn -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<!-- Selenium -->
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+<!-- C Language -->
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c_language" width="40" height="40"/> </a>
+</p>
+
+<br>
   
-<div> 
-  <a href="https://www.instagram.com/_marcus.almeida/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-<!--  <a href="https://discord.gg/." target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href = "mailto:marcus.a@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcus-vinicius-de-souza-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+---
+<br>
+<div align="center">
+  <!-- <a href="https://github.com/Alm3ida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alm3ida&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alm3ida&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
