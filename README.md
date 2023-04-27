@@ -2,7 +2,7 @@
 
 
 - 🔭 Nowadays, I'm working to improve my soft-skills and hard-skills.
-- 🌱 I'm currently working at Alura as Data Science Intern.
+- 🌱 I'm currently working at Alura as Data Science Monitor.
 - ❔ Ask me about Python, Data Science, Electrical Engineering and Robotics.
 
 <br>
