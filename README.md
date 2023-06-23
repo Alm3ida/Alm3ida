@@ -18,6 +18,7 @@ Bem vindo(a) ao meu perfil! 😁
 - Banco de dados: MySQL e PostgreSQL 💾
 - Processamento distribuído: Databricks, PySpark 🌟
 - Conhecimentos em estatística, cálculo e matemática aplicada 📚
+- Cloud: Azure ☁️
 - Inglês técnico
 
 
