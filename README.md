@@ -57,12 +57,12 @@ Bem vindo(a) ao meu perfil! 😁
 
 Aqui estão algumas publicações de conteúdo que participei sobre tópicos em Análise e Ciência de dados:
 
-1. 📄 [Numpy: trabalhando computação científica com Python](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python):
-2. 📄 [Python: utilizando POO na Engenharia de Dados](https://www.alura.com.br/artigos/python-poo-engenharia-dados):
-3. 📄 [Data Visualization: conhecendo as bibliotecas do Python](https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python):
-4. 📄 [Engenharia de Dados: o que é, o que faz e um Guia completo](https://www.alura.com.br/artigos/engenharia-dados):
-5. 📄 [Power BI: o que é, para que serve, quem utiliza e um Guia para iniciar](https://www.alura.com.br/artigos/power-bi): Breve descrição do artigo.
-6. 📄 [Pandas: o que é, para que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar): Breve descrição do artigo.
+1. 📄 [Numpy: trabalhando computação científica com Python](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python);
+2. 📄 [Python: utilizando POO na Engenharia de Dados](https://www.alura.com.br/artigos/python-poo-engenharia-dados);
+3. 📄 [Data Visualization: conhecendo as bibliotecas do Python](https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python);
+4. 📄 [Engenharia de Dados: o que é, o que faz e um Guia completo](https://www.alura.com.br/artigos/engenharia-dados);
+5. 📄 [Power BI: o que é, para que serve, quem utiliza e um Guia para iniciar](https://www.alura.com.br/artigos/power-bi);
+6. 📄 [Pandas: o que é, para que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar).
 
 <details>
 <summary>Clique aqui para expandir e ver outros artigos</summary>
