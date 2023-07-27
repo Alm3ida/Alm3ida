@@ -63,8 +63,8 @@ Aqui estão algumas publicações de conteúdo que participei sobre tópicos em 
 3. 📄 [Data Visualization: conhecendo as bibliotecas do Python](https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python);
 4. 📄 [Engenharia de Dados: o que é, o que faz e um Guia completo](https://www.alura.com.br/artigos/engenharia-dados);
 5. 📄 [Power BI: o que é, para que serve, quem utiliza e um Guia para iniciar](https://www.alura.com.br/artigos/power-bi);
-6. 📄 [Pandas: o que é, para que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar).
-
+6. 📄 [Pandas: o que é, para que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar);
+7. 📄 [Banco de dados relacionais: conhecendo conceitos, terminologias e ferramentas](https://www.alura.com.br/artigos/banco-dados-relacionais-conceitos-terminologias-ferramentas).
 <details>
 <summary>Clique aqui para expandir e ver outros artigos</summary>
 - <a href='https://www.alura.com.br/artigos/iniciando-projeto-spark-no-colab'>📄 Iniciando um projeto Spark no Google Colab</a>
