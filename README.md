@@ -22,7 +22,7 @@ Bem vindo(a) ao meu perfil! 😁
 - Inglês técnico
 
 
-### Ferramentas:
+## Ferramentas:
 
 <section>
  <!-- Language icons -->
