@@ -50,9 +50,7 @@ Bem vindo(a) ao meu perfil! 😁
  <!-- C Language -->
  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c_language" width="40" height="40"/></code></a>
  </p>
- <br> 
 </section>
-
 
 ## Artigos ✍️
 
@@ -68,18 +66,14 @@ Aqui estão algumas publicações de conteúdo que participei sobre tópicos em 
 <details>
 <summary>Clique aqui para expandir e ver outros artigos</summary>
 - <a href='https://www.alura.com.br/artigos/iniciando-projeto-spark-no-colab'>📄 Iniciando um projeto Spark no Google Colab</a>
-
 </details>
-
 
 ## Contato 📞
 
 Você pode entrar em contato comigo por meio das seguintes plataformas:
-
 - 📄 **[LinkedIn](https://www.linkedin.com/in/marcus-vinicius-de-souza-almeida/)**
 - ✉️ **[E-mail](mailto:marcus.almeida.ds@gmail.com)**
  
-
 ---
 <br>
 <div align="center">
