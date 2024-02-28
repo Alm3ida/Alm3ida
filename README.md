@@ -96,8 +96,8 @@ You can reach me through the following platforms:
 Bem vindo(a) ao meu perfil! 😁
 
 - 👨‍🔬 Cientista de Dados - Python
-- ⚡ Engenharia Elétrica - IFMA (7° período)
-- 🤿 Monitor de Ciência de Dados na Alura
+- ⚡ Engenharia Elétrica - IFMA (8° período)
+- 🤿 Operations Analyst na CloudWalk Inc.
 
 ## Habilidades 🚀
 
