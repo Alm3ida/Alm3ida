@@ -84,8 +84,12 @@ You can reach me through the following platforms:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alm3ida&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-
 ---
+
+
+<summary>Portuguese version</summary>
+<details>
+ 
 
 # **Olá, meu nome é Marcus Almeida!🎲** 
 
@@ -113,7 +117,9 @@ Bem vindo(a) ao meu perfil! 😁
 
 ## Ferramentas:
 
-<section>
+
+
+
  <!-- Language icons -->
  <p align="left">
  <!-- Python -->
@@ -167,7 +173,8 @@ Você pode entrar em contato comigo por meio das seguintes plataformas:
 <br>
 <div align="center">
   <!-- <a href="https://github.com/Alm3ida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alm3ida&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alm3ida&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alm3ida&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+</div> 
 
+</details>
