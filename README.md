@@ -3,11 +3,19 @@
 Welcome to my profile! 😁
 
 - 👨‍🔬 Data Scientist - Python
-- ⚡ Electrical Engineering - IFMA (8th period)
-- 🤿 Operations Analyst at CloudWalk Inc.
+- ⚡ Electrical Engineering - IFMA (9th period)
+
+## Work Experience
+- Data Analyst at Inhire.
+- Operations and Risk Analyst at CloudWalk Inc.
+- Python Developer and Data Analyst (Freelancer) at Upwork.
+- Python Developer and Data Analyst (Freelancer) at Workana.
+- Data Science Content Creator at Alura.
+- Data Science Content Creator Intern at Alura.
+
+For more details, feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/marcus-vinicius-de-souza-almeida/)
 
 ## Skills 🚀
-
 - Exploratory Data Analysis 📊
 - Data Cleaning and Transformation 🧹
 - Data Visualization (DataViz) 📈
