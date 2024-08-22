@@ -5,7 +5,7 @@ Welcome to my profile! 😁
 - 👨‍🔬 Data Scientist - Python
 - ⚡ Electrical Engineering - IFMA (9th period)
 
-## Work Experience
+## Work Experience 🖥️
 - Data Analyst at Inhire.
 - Operations and Risk Analyst at CloudWalk Inc.
 - Python Developer and Data Analyst (Freelancer) at Upwork.
