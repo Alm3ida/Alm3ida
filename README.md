@@ -23,10 +23,10 @@ For more details, feel free to visit my [LinkedIn profile](https://www.linkedin.
 - Machine Learning Algorithm Implementation ⚙️
 - Programming Languages: Python, C/C++ 🐍
 - Tools: Scikit-learn, Pandas, NumPy, Selenium, Matplotlib, and SQL 🛠️
-- Databases: MySQL and PostgreSQL 💾
+- Databases: MySQL, ClickHouse and PostgreSQL 💾
 - Distributed Processing: Databricks, PySpark 🌟
 - Knowledge in Statistics, Calculus, and Applied Mathematics 📚
-- Cloud: Azure ☁️
+- Cloud: Google Cloud Platform ☁️
 - Technical English
 
 ## Tools:
